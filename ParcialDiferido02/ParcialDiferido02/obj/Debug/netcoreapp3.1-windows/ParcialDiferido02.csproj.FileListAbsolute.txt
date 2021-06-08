@@ -1,0 +1,13 @@
+C:\Users\Daniel Mendez\OneDrive\Escritorio\ParcialDiferido02\ParcialDiferido02\bin\Debug\netcoreapp3.1-windows\ParcialDiferido02.exe
+C:\Users\Daniel Mendez\OneDrive\Escritorio\ParcialDiferido02\ParcialDiferido02\bin\Debug\netcoreapp3.1-windows\ParcialDiferido02.deps.json
+C:\Users\Daniel Mendez\OneDrive\Escritorio\ParcialDiferido02\ParcialDiferido02\bin\Debug\netcoreapp3.1-windows\ParcialDiferido02.runtimeconfig.json
+C:\Users\Daniel Mendez\OneDrive\Escritorio\ParcialDiferido02\ParcialDiferido02\bin\Debug\netcoreapp3.1-windows\ParcialDiferido02.runtimeconfig.dev.json
+C:\Users\Daniel Mendez\OneDrive\Escritorio\ParcialDiferido02\ParcialDiferido02\bin\Debug\netcoreapp3.1-windows\ParcialDiferido02.dll
+C:\Users\Daniel Mendez\OneDrive\Escritorio\ParcialDiferido02\ParcialDiferido02\bin\Debug\netcoreapp3.1-windows\ParcialDiferido02.pdb
+C:\Users\Daniel Mendez\OneDrive\Escritorio\ParcialDiferido02\ParcialDiferido02\obj\Debug\netcoreapp3.1-windows\ParcialDiferido02.csproj.AssemblyReference.cache
+C:\Users\Daniel Mendez\OneDrive\Escritorio\ParcialDiferido02\ParcialDiferido02\obj\Debug\netcoreapp3.1-windows\ParcialDiferido02.AssemblyInfoInputs.cache
+C:\Users\Daniel Mendez\OneDrive\Escritorio\ParcialDiferido02\ParcialDiferido02\obj\Debug\netcoreapp3.1-windows\ParcialDiferido02.AssemblyInfo.cs
+C:\Users\Daniel Mendez\OneDrive\Escritorio\ParcialDiferido02\ParcialDiferido02\obj\Debug\netcoreapp3.1-windows\ParcialDiferido02.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Mendez\OneDrive\Escritorio\ParcialDiferido02\ParcialDiferido02\obj\Debug\netcoreapp3.1-windows\ParcialDiferido02.dll
+C:\Users\Daniel Mendez\OneDrive\Escritorio\ParcialDiferido02\ParcialDiferido02\obj\Debug\netcoreapp3.1-windows\ParcialDiferido02.pdb
+C:\Users\Daniel Mendez\OneDrive\Escritorio\ParcialDiferido02\ParcialDiferido02\obj\Debug\netcoreapp3.1-windows\ParcialDiferido02.genruntimeconfig.cache
